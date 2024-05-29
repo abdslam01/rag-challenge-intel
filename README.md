@@ -35,11 +35,9 @@ Tale : L'histoire 1: Il était une fois au Maroc, une jeune fille nommée Lila q
 
 ```
 
-## About [ToumAI Analytics]([http://example.com](https://www.toum.ai/))
+## About ToumAI Analytics
 
-"Boost customer satisfaction and minimize churn with ToumAI— your multilingual Gen-AI & analytics solution for customer insights in emerging markets."
-
-ToumAI Analytics supports ventures willing to better understand their stakeholders no matter the language they use and improve their local impact across the EMEA region. 
+[ToumAI Analytics]([http://example.com](https://www.toum.ai/)) supports ventures willing to better understand their stakeholders no matter the language they use and improve their local impact across the EMEA region. 
 ​
 We believe in the power of language and cultural diversity to connect and enrich our world. Our commitment to understanding and embracing dialects is at the heart of our approach. We recognize that every dialect represents a unique cultural identity and perspective.
  
