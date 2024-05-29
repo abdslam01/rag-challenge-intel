@@ -34,3 +34,19 @@ Prompt : Raconte moi l'histoire d'une jeune marocaine partie en voyage avec sa m
 Tale : L'histoire 1: Il était une fois au Maroc, une jeune fille nommée Lila qui vivait avec sa mère. Ils étaient très proches et faisaient toujours des choses ensemble. Un jour, ils ont décidé de faire un voyage en voiture à travers la campagne du Maroc. Alors qu'ils conduisaient le long des routes sinueuses, Lila ne pouvait s'empêcher de se sentir excitée par tous les nouveaux endroits qu'elle verrait. L'histoire 2: Lila n'avait jamais fait un si long trajet en voiture auparavant et était ravie à l'idée de voir autant de nouveaux paysages. Elle avait l'impression que ce serait une aventure dont ils se souviendraient tous les deux pour toujours.
 
 ```
+
+## About [ToumAI Analytics]([http://example.com](https://www.toum.ai/))
+
+"Boost customer satisfaction and minimize churn with ToumAI— your multilingual Gen-AI & analytics solution for customer insights in emerging markets."
+
+ToumAI Analytics supports ventures willing to better understand their stakeholders no matter the language they use and improve their local impact across the EMEA region. 
+​
+We believe in the power of language and cultural diversity to connect and enrich our world. Our commitment to understanding and embracing dialects is at the heart of our approach. We recognize that every dialect represents a unique cultural identity and perspective.
+ 
+By integrating this understanding into our voice solutions & analytics technology, we're not just enhancing communication – we're fostering deeper, more meaningful connections.
+ 
+Our dedication to linguistic inclusivity is more than a feature; it's our promise to ensure everyone feels heard and valued. We're paving the way for a future where businesses thrive on diversity and inclusivity, creating a more connected and sustainable world for all.
+​
+Welcome to a place where every voice matters.
+
+🏅 We are winners of the Finance For Tomorrow challenge in the Diversity and Inclusion category.
