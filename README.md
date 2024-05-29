@@ -28,6 +28,12 @@ Prompt : Aw ye maana surun dɔ fɔ n ye (kumasen 5 ka caya) waraba ni wulu dɔ k
 Tale : A ko: Waati dɔ, jara dɔ tun be Afiriki jamana na min tɔgɔ ko Sikar. A tun ka fari ani a tun be se ka koo dɔw kɛ. A tun be se ka mɔgɔw bali k'a ka bɛɛn sigi n'a ye. Loon dɔ, k'a to a tagatɔ a ka yɔrɔ kɔlɔsi, a ye wulu dɔ ye. Wuluw tun be siran a ɲɛ. Nka, a hinɛ donna a la, a y'a latigɛ k'a ta k'a kɛ a ka derekeba ye. Wulu nin tɔgɔ ko Timmy. K'a ta o loon na, u kɛra teriw ye. Sikar tun be to ka Timmy kalan a ka dumuni ɲini ani k'a dɛmɛ. U tun be yaala ɲɔgɔn fɛ kongokolon kɔnɔ, ka kongosogow faga ani ka kongosogo farimanw faga. U ka kokɛcogow tun tɛ kelen ye hali dɔɔni.
 ```
 
+Here is another prompt in Bambara, about the importance of family:
+```sh
+Prompt : Aw ye maana fitinin dɔ fɔ n ye (kumasen 5 ma caya) min b’a jira mun na i ka kan ka denbaya kanu
+Tale : I be mɔgɔ min kanu, i teriw be se k'o tigi kanu fana.
+```
+
 Here is a prompt in French:
 ```sh
 Prompt : Raconte moi l'histoire d'une jeune marocaine partie en voyage avec sa maman
